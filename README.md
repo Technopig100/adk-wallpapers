@@ -1,3 +1,3 @@
-# ADK-Linux wallpapers
+# ADK-Linux Wallpapers
 
 
