@@ -1,6 +1,6 @@
 ## ADK-Linux Wallpapers
 
-Adk-linux Wallpapers is a colection of mountain images.
+Adk-linux Wallpapers is a collection of mountain images.
 
 In this repository you'll find:
 
